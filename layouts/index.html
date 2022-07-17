@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <div class="post">
+    <div class="post-content">
+        {{ with .GetPage "/about" }}{{ .Content }}{{end}}
+    </div>
+  </div>
+{{ end }}
