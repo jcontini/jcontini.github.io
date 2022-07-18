@@ -1,0 +1,60 @@
+<footer class="footer">
+  </footer>
+  
+  <script src="{{ "assets/main.js" | absURL }}"></script>
+  <script src="{{ "assets/prism.js" | absURL }}"></script>
+
+  <!-- 
+    Make all external links open in new page.
+    https://robwise.github.io/blog/javascript-external-links-open-new-window
+  -->
+  <script>
+    var all_links = document.querySelectorAll('a');
+    for (var i = 0; i < all_links.length; i++){
+      var a = all_links[i];
+      if(a.hostname != location.hostname) {
+        a.rel = 'noopener';
+        a.target = '_blank';
+      }
+    }
+  </script>
+
+  <!-- Clearbit Visitor tracking -->
+  <script type="text/javascript">
+    (function (d, u, h, s) {
+      h = d.getElementsByTagName('head')[0];
+      s = d.createElement('script');
+      s.async = 1;
+      s.src = u + new Date().getTime();
+      h.appendChild(s);
+    })(document, 'https://grow.clearbitjs.com/api/pixel.js?k=pk_01a926c1cdbbe08a924e565f99de755b&v=');
+  </script>
+
+  <!-- Snowplow tracking -->
+  <script type="text/javascript" async=1>
+    ;(function(p,l,o,w,i,n,g){
+      if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+      p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+      };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+      n.src=w;g.parentNode.insertBefore(n,g)}
+    }(
+      window,
+      document,
+      "script",
+      "https://57f3c3f0-8f67-44ef-ba4e-25580c5be024.app.try-snowplow.com/v3/try.js",
+      "snowplow")
+    );
+    
+    snowplow("newTracker", "try", "https://57f3c3f0-8f67-44ef-ba4e-25580c5be024.app.try-snowplow.com", {
+      appId: "try-snowplow", // you can specify your own app name here
+      platform: "web",
+      contexts: {
+        webPage: true, // this sets a unique id for each page view
+        performanceTiming: true // this captures performance metrics like load times
+      }
+    });
+    // send first heartbeat after 10 seconds, and every 10 seconds thereafter
+    snowplow("enableActivityTracking", { minimumVisitLength: 10, heartbeatDelay: 10 });
+    snowplow("enableLinkClickTracking"); 
+    snowplow("trackPageView"); 
+    </script>
