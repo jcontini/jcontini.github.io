@@ -2,7 +2,7 @@
 title: About
 ---
 
-Hi! If you'd like to get in touch, [pick a time](https://contini.co/chat).
+Hi! If you'd like to get in touch, [let's chat](https://contini.co/chat).
 
 You can also find me on:
 - [twitter](https://twitter.com/jcontini)

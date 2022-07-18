@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <div class="post">
+    <h1 class="post-title">{{ .Title | markdownify }}</h1>
+    <div class="post-content">
+        <p>
+            Here are some quotes that I've appreciated at different points in my life.
+        </p>
+        {{ range $.Site.Data.quotes }}
+            <div class="quote">
+            "{{.quote}}"
+            <b>- <a href="https://www.google.com/search?q={{.author}}">{{.author}}</a></b>
+            </div>
+        {{ end }}
+    </div>
+  </div>
+{{ end }}
