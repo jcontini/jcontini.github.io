@@ -8,3 +8,5 @@ You can also find me on:
 - [twitter](https://twitter.com/jcontini)
 - [goodreads](https://www.goodreads.com/user/show/26631647-joe-contini)
 - [github](https://github.com/jcontini)
+- [linkedin](https://www.linkedin.com/in/jcontini/)
+  - If we haven't met, please include a note in your request!
