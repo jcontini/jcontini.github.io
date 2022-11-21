@@ -1,101 +1,130 @@
-[
-  {
-    "quote":"Most people are about as happy as they make up their minds to be.",
-    "author":"Abraham Lincoln",
-    "tags": ["Philosophy"]
+[{
+    "quote": "Most people are about as happy as they make up their minds to be.",
+    "author": "Abraham Lincoln",
+    "tags": ["Philosophy"],
+    "added": 2020
   },
   {
-    "quote":"Life is like riding a bicycle. To keep your balance you must keep moving.",
-    "author":"Albert Einstein",
-    "tags": ["Philosophy"]
+    "quote": "Life is like riding a bicycle. To keep your balance you must keep moving.",
+    "author": "Albert Einstein",
+    "tags": ["Philosophy"],
+    "added": 2020
   },
   {
-    "quote":"If at first the idea is not absurd, then there is no hope for it.",
-    "author":"Albert Einstein",
-    "tags": ["Motivation"]
+    "quote": "If at first the idea is not absurd, then there is no hope for it.",
+    "author": "Albert Einstein",
+    "tags": ["Motivation"],
+    "added": 2020
   },
   {
-    "quote":"We live in deeds, not years. He most lives who thinks most, feels the noblest, acts the best.",
-    "author":"Aristotle",
-    "tags": ["Philosophy"]
+    "quote": "We live in deeds, not years. He most lives who thinks most, feels the noblest, acts the best.",
+    "author": "Aristotle",
+    "tags": ["Philosophy"],
+    "added": 2020
   },
   {
-    "quote":"And the only difference between them, and me, was that they had done it and I hadn’t. It was literally just a decision. They decided to do it and I had not decided to. I hadn’t taken that leap yet and that was really the only difference.",
-    "author":"Brian Chesky",
-    "tags": ["Motivation"]
+    "quote": "And the only difference between them, and me, was that they had done it and I hadn’t. It was literally just a decision. They decided to do it and I had not decided to. I hadn’t taken that leap yet and that was really the only difference.",
+    "author": "Brian Chesky",
+    "tags": ["Motivation"],
+    "added": 2020
   },
   {
-    "quote":"I don’t know if the optimists or the pessimists are right. But the optimists are going to get something done.",
-    "author":"Craig Venter",
-    "tags": ["Motivation"]
+    "quote": "I don’t know if the optimists or the pessimists are right. But the optimists are going to get something done.",
+    "author": "Craig Venter",
+    "tags": ["Motivation"],
+    "added": 2020
   },
   {
-    "quote":"Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.",
-    "author":"Dale Carnegie",
-    "tags": ["Motivation"]
+    "quote": "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.",
+    "author": "Dale Carnegie",
+    "tags": ["Motivation"],
+    "added": 2010
   },
   {
-    "quote":"A good plan, violently executed now, is better than a perfect plan next week.",
-    "author":"George S. Patton",
-    "tags": ["Motivation"]
+    "quote": "A good plan, violently executed now, is better than a perfect plan next week.",
+    "author": "George S. Patton",
+    "tags": ["Motivation"],
+    "added": 2010
   },
   {
-    "quote":"Life is either a daring adventure or nothing.",
-    "author":"Helen Keller",
-    "tags": ["Philosophy"]
+    "quote": "Life is either a daring adventure or nothing.",
+    "author": "Helen Keller",
+    "tags": ["Philosophy"],
+    "added": 2020
   },
   {
-    "quote":"If I’d listened to customers, I’d have given them a faster horse.",
-    "author":"Henry Ford"
+    "quote": "If I’d listened to customers, I’d have given them a faster horse.",
+    "author": "Henry Ford"
   },
   {
-    "quote":"There is no happiness except in the realization that we have accomplished something.",
-    "author":"Henry Ford",
-    "tags": ["Business"]
+    "quote": "There is no happiness except in the realization that we have accomplished something.",
+    "author": "Henry Ford",
+    "tags": ["Business"],
+    "added": 2010
   },
   {
-    "quote":"You need to make a commitment. Once you do, life will start giving you some answers.",
-    "author":"Les Brown",
-    "tags": ["Motivation"]
+    "quote": "You need to make a commitment. Once you do, life will start giving you some answers.",
+    "author": "Les Brown",
+    "tags": ["Motivation"],
+    "added": 2020
   },
   {
-    "quote":"Knowledge is always good, and certainly always better than ignorance.",
-    "author":"Sergey Brin",
-    "tags": ["Philosophy"]
+    "quote": "The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.",
+    "author": "Socrates",
+    "tags": ["Philosophy"],
+    "added": 2010
   },
   {
-    "quote":"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.",
-    "author":"Socrates",
-    "tags": ["Philosophy"]
+    "quote": "You’ve got to find what you love. And that is as true for your work as it is for your lovers. Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "tags": ["Motivation"],
+    "added": 2010
   },
   {
-    "quote":"You’ve got to find what you love. And that is as true for your work as it is for your lovers. Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
-    "author":"Steve Jobs",
-    "tags": ["Motivation"]
+    "quote": "But we know that as individuals we tend to systemically overestimate the cost of failure and underestimate the cost of inaction.",
+    "author": "Steve Taylor (WPI)",
+    "tags": ["Philosophy"],
+    "added": 2020
   },
   {
-    "quote":"But we know that as individuals we tend to systemically overestimate the cost of failure and underestimate the cost of inaction.",
-    "author":"Steve Taylor (WPI)",
-    "tags": ["Philosophy"]
+    "quote": "Far better it is to dare mighty things, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy much nor suffer much, because they live in that grey twilight that knows neither victory nor defeat.",
+    "author": "Theodore Roosevelt",
+    "tags": ["Philosophy"],
+    "added": 2010
   },
   {
-    "quote":"Far better it is to dare mighty things, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy much nor suffer much, because they live in that grey twilight that knows neither victory nor defeat.",
-    "author":"Theodore Roosevelt",
-    "tags": ["Philosophy"]
+    "quote": "If you imagine it, you can achieve it; if you dream it, you can become it.",
+    "author": "William Arthur Ward",
+    "tags": ["Motivation"],
+    "added": 2020
   },
   {
-    "quote":"If you imagine it, you can achieve it; if you dream it, you can become it.",
-    "author":"William Arthur Ward",
-    "tags": ["Motivation"]
-  },
-  {
-    "quote":"Success is going from failure to failure without loss of enthusiasm.",
-    "author":"Winston Churchill",
-    "tags": ["Motivation"]
+    "quote": "Success is going from failure to failure without loss of enthusiasm.",
+    "author": "Winston Churchill",
+    "tags": ["Motivation"],
+    "added": 2008
   },
   {
     "quote": "If you want to teach people a new way of thinking, don't bother trying to teach them. Instead, give them a tool, the use of which will lead to new ways of thinking.",
     "author": "R. Buckminster Fuller",
-    "tags": ["Influence"]
+    "tags": ["Influence"],
+    "added": 2021.08
+  }, {
+    "quote": "Focus on directions rather than destinations. Who knows their destiny? But maintain the right direction and you’ll arrive at where you want to go.",
+    "author": "Kevin Kelly",
+    "tags": ["Philosophy"],
+    "added": 2022.09
+  },
+  {
+    "quote": "A good traveler has no fixed plans, and is not intent on arriving.",
+    "author": "Lao Tzu",
+    "tags": ["Philosophy"],
+    "added": 2022.10
+  },
+  {
+    "quote": "A ship is safe in harbour, but that’s not what ships are for.",
+    "author": "John A. Shedd",
+    "tags": ["Philosophy"],
+    "added": 2022.11
   }
 ]

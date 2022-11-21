@@ -5,10 +5,10 @@
         <p>
             Here are some quotes that I've appreciated at different points in my life.
         </p>
-        {{ range $.Site.Data.quotes }}
+        {{ range sort $.Site.Data.quotes "added" "desc"}}
             <div class="quote">
             "{{.quote}}"
-            <b>- <a href="https://www.google.com/search?q={{.author}}">{{.author}}</a></b>
+            <br /><b>- <a href="https://www.google.com/search?q={{.author}}">{{.author}}</a></b>
             </div>
         {{ end }}
     </div>
