@@ -12,7 +12,7 @@ I mostly nerd out on AI (esp LLMs), web dev, finance, international living, and 
 
 You can find me on:
 
-- [x](https://twitter.com/jcontini)
+- [twitter](https://twitter.com/jcontini)
 - [github](https://github.com/jcontini)
 - [linkedin](https://www.linkedin.com/in/jcontini/)
 - [instagram](https://www.instagram.com/jcontini/)
