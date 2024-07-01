@@ -8,4 +8,4 @@ You can find me on:
 - [github](https://github.com/jcontini)
 - [linkedin](https://www.linkedin.com/in/jcontini/)
 - [goodreads](https://www.goodreads.com/user/show/26631647-joe-contini)
-- [nomadlist](https://nomadlist.com/@jcontini)
+  `
