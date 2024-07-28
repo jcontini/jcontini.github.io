@@ -1,0 +1,109 @@
+{
+    "apps": [
+      {
+        "name": "VSCode",
+        "tags": ["development"],
+        "url": "https://code.visualstudio.com/"
+      },
+      {
+        "name": "GitHub Desktop",
+        "tags": ["development"],
+        "url": "https://desktop.github.com/"
+      },
+      {
+        "name": "Raycast",
+        "tags": ["productivity"],
+        "url": "https://www.raycast.com/"
+      },
+      {
+        "name": "Perplexity",
+        "tags": ["productivity", "raycast", "ai"],
+        "url": "https://www.perplexity.ai/"
+      },
+      {
+        "name": "brew",
+        "tags": ["development", "raycast"],
+        "url": "https://brew.sh/"
+      },
+      {
+        "name": "Cleanshot",
+        "tags": ["raycast", "productivity"],
+        "url": "https://cleanshot.com/"
+      },
+      {
+        "name": "Groq",
+        "tags": ["productivity", "raycast", "ai"],
+        "url": "https://groq.com/"
+      },
+      {
+        "name": "Linear",
+        "tags": ["development", "raycast"],
+        "url": "https://linear.app/"
+      },
+      {
+        "name": "Ollama",
+        "tags": ["development", "raycast", "ai"],
+        "url": "https://ollama.ai/"
+      },
+      {
+        "name": "Raindrop",
+        "tags": ["raycast", "productivity", "knowledge management"],
+        "url": "https://raindrop.io/"
+      },
+      {
+        "name": "Readwise Reader",
+        "tags": ["productivity", "knowledge management"],
+        "url": "https://readwise.io/read"
+      },
+      {
+        "name": "Test internet speed",
+        "tags": ["raycast"],
+        "url": "https://www.speedtest.net/"
+      },
+      {
+        "name": "Claude",
+        "tags": ["development", "ai"],
+        "url": "https://www.anthropic.com/"
+      },
+      {
+        "name": "Cody",
+        "tags": ["development", "VS Code extension", "ai"],
+        "url": "https://sourcegraph.com/cody"
+      },
+      {
+        "name": "Beekeeper Studio",
+        "tags": ["development"],
+        "url": "https://www.beekeeperstudio.io/"
+      },
+      {
+        "name": "Arc",
+        "tags": ["productivity"],
+        "url": "https://arc.net/"
+      },
+      {
+        "name": "HomeRow",
+        "tags": ["productivity"],
+        "url": "https://www.homerow.app/"
+      },
+      {
+        "name": "iTerm",
+        "tags": ["development"],
+        "url": "https://iterm2.com/"
+      },
+      {
+        "name": "Mimestream",
+        "tags": ["productivity"],
+        "url": "https://mimestream.com/"
+      },
+      {
+        "name": "Obsidian",
+        "tags": ["general", "knowledge management"],
+        "url": "https://obsidian.md/"
+      },
+      {
+        "name": "Screen Studio",
+        "tags": ["general"],
+        "url": "https://www.screen.studio/"
+      }
+    ]
+  }
