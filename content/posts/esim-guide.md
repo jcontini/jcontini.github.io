@@ -6,7 +6,7 @@ draft: false
 
 I'm traveling in Europe and needed an eSIM that just worked. 4 purchases and 3 providers later, I learned that there's a lot of BS on these sites that sell eSIMs.
 
-TLDR: Nomad eSIM seems to have the least BS
+TLDR: [Nomad](https://www.getnomad.app/) eSIM seems to have the least BS
 ## Context
 
 ### Requirements
@@ -21,7 +21,7 @@ Have a US T-mobile prepaid plan, and kept the physical SIM in my iPhone. Didn't 
 
 ## Experiences
 
-### eSIM.net
+### [eSIM.net](https://www.esim.net/)
 - 1st: UK Vodafone
 	- Bought while in US. Started working shortly after landing in UK
 	- Worked in UK, but not in Estonia
@@ -56,7 +56,7 @@ I'm thinking maybe the issue was with O2 so not blaming Airhub, but:
 - They don't provide any link to unsubscribe or even manage preferences.
 - That's a hard limit for me. 0/10. Cannot recommend Airhub.
 
-### Nomad
+### [Nomad](https://www.getnomad.app/)
 - Downloaded the iOS app
 - Used the app. Easy. Smooth UX.
 - They suggest social features, I skipped
