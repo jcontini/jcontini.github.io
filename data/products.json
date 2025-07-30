@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "Super Whisper",
+      "purpose": "Voice-to-text transcription software",
+      "url": "https://superwhisper.com",
+      "tags": ["MacOS", "iOS", "Productivity", "Audio", "AI", "Offline"],
+      "description": "AI-powered voice-to-text software that works offline, supports 100+ languages, and integrates with any app. Features custom vocabulary and private, secure transcription that stays on your device."
+    },
+    {
+      "name": "Cursor",
+      "purpose": "AI-powered code editor",
+      "url": "https://cursor.sh",
+      "tags": ["Development", "IDE", "AI"],
+      "description": "My preferred IDE for coding with AI assistance"
+    },
+    {
+      "name": "Claude",
+      "purpose": "AI Language Model",
+      "url": "https://claude.ai",
+      "tags": ["AI", "Development", "Productivity"],
+      "description": "My go-to AI assistant for coding and complex tasks"
+    },
+    {
+      "name": "Tea Candle Warmer",
+      "purpose": "Beverage temperature maintenance",
+      "url": "https://www.amazon.com/dp/B0D3X1LSVM",
+      "tags": ["Home", "Beverages", "Accessories"],
+      "description": "Keeps my tea and coffee warm on my desk without electricity and looks super cool with its rose gold design"
+    },
+    {
+      "name": "Zen Browser",
+      "purpose": "Privacy-focused web browser",
+      "url": "https://zen-browser.app",
+      "tags": ["Privacy", "Web", "Productivity", "Customization"],
+      "description": "A Firefox-based browser focused on privacy and customization, featuring workspaces, compact mode, split views, and a powerful sidebar for tab management"
+    }
+  ]
+} 
